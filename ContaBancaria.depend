@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1471305082 source:d:\docs\utfpr\estruturas de dados\tad\contabancaria\contabancaria.c
+	<stdlib.h>
+	<stdio.h>
+	"ContaBancaria.h"
+
+1471376927 d:\docs\utfpr\estruturas de dados\tad\contabancaria\contabancaria.h
+
+1471376933 source:d:\docs\utfpr\estruturas de dados\tad\contabancaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ContaBancaria.h"
+
+1479804260 source:c:\users\aluno\desktop\contabancaria\contabancaria.c
+	<stdlib.h>
+	<stdio.h>
+	"ContaBancaria.h"
+
+1479801633 c:\users\aluno\desktop\contabancaria\contabancaria.h
+
+1479804041 source:c:\users\aluno\desktop\contabancaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ContaBancaria.h"
+

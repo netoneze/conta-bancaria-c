@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nelsontoneze/Downloads/ContaBancaria/ContaBancaria.c
+stdlib.h
+-
+stdio.h
+-
+ContaBancaria.h
+/Users/nelsontoneze/Downloads/ContaBancaria/ContaBancaria.h
+
+/Users/nelsontoneze/Downloads/ContaBancaria/ContaBancaria.h
+
