@@ -11,7 +11,7 @@ int main (){
     scanf("%d",&op);
 
     if(op<1 || op>6){
-        printf("Opcao errada BURRO!");
+        printf("Opcao errada!");
     }
 
     if(op==1){
